@@ -1,0 +1,1 @@
+scalac -bootclasspath C:\Users\ajh\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar -classpath C:\code\excerism\exercism\scala\sum-of-multiples\target\scala-2.12\classes C:\code\excerism\exercism\scala\sum-of-multiples\src\main\scala\SumOfMultiples.scala
