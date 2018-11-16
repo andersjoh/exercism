@@ -1,26 +1,14 @@
 [0m[[0m[0minfo[0m] [0m[0m[32mSumOfMultiplesTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- multiples of 3 or 5 up to 1 *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:284)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at SumOfMultiples$.sum(SumOfMultiples.scala:2)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at SumOfMultiplesTest.$anonfun$new$1(SumOfMultiplesTest.scala:7)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.TestSuite.withFixture(TestSuite.scala:196)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 3 or 5 up to 4 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 3 up to 7 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 3 or 5 up to 10 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 3 or 5 up to 100 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 3 or 5 up to 1000 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 7, 13 or 17 up to 20 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 4 or 6 up to 15 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 5, 6 or 8 up to 150 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 5 or 25 up to 51 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 43 or 47 up to 10000 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of 1 up to 100 (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiples of an empty list up to 10000 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 3 or 5 up to 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 3 or 5 up to 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 3 up to 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 3 or 5 up to 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 3 or 5 up to 100[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 3 or 5 up to 1000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 7, 13 or 17 up to 20[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 4 or 6 up to 15[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 5, 6 or 8 up to 150[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 5 or 25 up to 51[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 43 or 47 up to 10000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of 1 up to 100[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiples of an empty list up to 10000[0m[0m
